@@ -51,6 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=palakberi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palakberi&" alt="palakberi" /></p> like this
 ---
 
 ✨ *“Code. Build. Learn. Repeat.”*  
